@@ -1,0 +1,222 @@
+[
+    {
+        "id": 1,
+        "name": "Manto Flamengo Jogo 1 Adidas 2024 ",
+        "price": 129.99,
+        "category": "jogo 1",
+        "image": "https://flamengo.vteximg.com.br/arquivos/ids/169036-473-473/IP8199_1_APPAREL_Photography_Front-View_white.jpg?v=638416186439730000",
+        "tipo": "Masculino"
+    },
+    {
+        "id": 2,
+        "name": "Manto Flamengo Feminina Jogo 1 Adidas 2024 ",
+        "price": 129.99,
+        "category": "jogo 1",
+        "image": "https://flamengo.vteximg.com.br/arquivos/ids/169041-473-473/IP8202_1_APPAREL_Photography_Front-View_white.jpg?v=638416199004600000",
+        "tipo": "Feminino"
+    },
+    {
+        "id": 3,
+        "name": "Manto Flamengo Infantil Jogo 1 Adidas 2024",
+        "price": 129.99,
+        "category": "jogo 1",
+        "image": "https://flamengo.vteximg.com.br/arquivos/ids/169051-473-473/IP8203_1_APPAREL_Photography_Front-View_white.jpg?v=638416209112600000",
+        "tipo": "Infantil"
+    },
+    {
+        "id": 4,
+        "name": "Manto Flamengo Manga Longa Jogo 1 Adidas 2024",
+        "price": 129.99,
+        "category": "jogo 1",
+        "image": "https://flamengo.vteximg.com.br/arquivos/ids/169026-473-473/IP8201_1_APPAREL_Photography_Front-View_white.jpg?v=638416176664700000"
+    },
+    {
+        "id": 5,
+        "name": "Regata Flamengo Jogo 1 Adidas 2024",
+        "price": 129.99,
+        "category": "jogo 1",
+        "image": "https://flamengo.vteximg.com.br/arquivos/ids/169005-473-473/IP8231-1.png?v=638415774128900000"
+    },
+    {
+        "id": 6,
+        "name": "Short Branco Flamengo Jogo 1 Adidas 2024",
+        "price": 129.99,
+        "category": "jogo 1",
+        "image": "https://flamengo.vteximg.com.br/arquivos/ids/169046-473-473/IP8204_1_APPAREL_Photography_Front-View_white.jpg?v=638416206332300000"
+    },
+    {
+        "id": 7,
+        "name": "Manto Flamengo Jogo 2 Adidas 2024",
+        "price": 129.99,
+        "category": "jogo 2",
+        "image": " https://flamengo.vteximg.com.br/arquivos/ids/169739-473-473/IP8207_1_APPAREL_Photography_Front-View_white.jpg?v=638482637606900000",
+        "tipo": "Masculino"
+    },
+    {
+        "id": 8,
+        "name": "Manto Flamengo Feminina Jogo 2 Adidas 2024",
+        "price": 129.99,
+        "category": "jogo 2",
+        "image": "https://flamengo.vteximg.com.br/arquivos/ids/169744-473-473/IP8227_1_APPAREL_Photography_Front-View_white.jpg?v=638482680094570000",
+        "tipo": "Feminino"
+    },
+    {
+        "id": 9,
+        "name": "Manto Flamengo Infantil Jogo 2 Adidas 2024",
+        "price": 129.99,
+        "category": "jogo 2",
+        "image": "  https://flamengo.vteximg.com.br/arquivos/ids/169739-473-473/IP8207_1_APPAREL_Photography_Front-View_white.jpg?v=638482637606900000",
+        "tipo": "Infantil"
+    },
+
+    {
+        "id": 10,
+        "name": "Mini Kit Flamengo Infantil Jogo 2 Adidas 2024",
+        "price": 129.99,
+        "category": "jogo 2",
+        "image": "https://flamengo.vteximg.com.br/arquivos/ids/169807-473-473/IP8230_1_APPAREL_Photography_Front-View_white.jpg?v=638494164455770000",
+        "tipo": "Infantil"
+    },
+
+    {
+        "id": 11,
+        "name": "Regata Flamengo Jogo 2 Adidas 2024",
+        "price": 129.99,
+        "category": "jogo 2",
+        "image": "https://flamengo.vteximg.com.br/arquivos/ids/169916-473-473/IP8233_1_APPAREL_Photography_Front-View_white.jpg?v=638524636729370000"
+    },
+    {
+        "id": 12,
+        "name": "Short Preto Flamengo Jogo 2 Adidas 2024",
+        "price": 129.99,
+        "category": "jogo 2",
+        "image": "https://flamengo.vteximg.com.br/arquivos/ids/169688-473-473/IP8229_1_APPAREL_Photography_Front-View_white.jpg?v=638476907847030000"
+    },
+    {
+        "id": 13,
+        "name": "Manto Flamengo Jogo 3 Adidas 2024",
+        "price": 129.99,
+        "category": "jogo 3",
+        "image": "https://flamengo.vteximg.com.br/arquivos/ids/171020-473-473/IT8540_FR_Torso_eCom-1-removebg-preview.png?v=638641881022030000",
+        "tipo": "Masculino"
+    },
+    {
+        "id": 14,
+        "name": "Manto Flamengo Feminina Jogo 3 Adidas 2024",
+        "price": 129.99,
+        "category": "jogo 3",
+        "image": "https://flamengo.vteximg.com.br/arquivos/ids/171011-473-473/IS8032_FR_Torso_eCom-1-removebg-preview.png?v=638641780241130000",
+        "tipo": "Feminino"
+    },
+    {
+        "id": 15,
+        "name": "Manto Flamengo Infantil Jogo 3 Adidas 2024",
+        "price": 129.99,
+        "category": "jogo 3",
+        "image": "https://flamengo.vteximg.com.br/arquivos/ids/171005-473-473/IS8033_FR_Torso_eCom-3-removebg-preview.png?v=638641742174500000",
+        "tipo": "Infantil"
+    },
+    {
+        "id": 16,
+        "name": "Short  Preto Flamengo Jogo 3 Adidas 2024",
+        "price": 129.99,
+        "category": "jogo 3",
+        "image": "https://flamengo.vteximg.com.br/arquivos/ids/171000-473-473/IT8536_FR_Torso_eCom-3-removebg-preview.png?v=638641714406970000"
+    },
+    {
+        "id": 18,
+        "name": "Chinelo Flamengo Rakka Kids Kenner",
+        "price": 129.99,
+        "category": "calçados",
+        "image": "https://flamengo.vteximg.com.br/arquivos/ids/171192-473-473/127352-1.png?v=638658910647670000"
+    },
+    {
+        "id": 20,
+        "name": "Chinelo Flamengo Manto 1 2024 Preto Vermelho",
+        "price": 129.99,
+        "category": "calçados",
+        "image": "https://flamengo.vteximg.com.br/arquivos/ids/170674-473-473/FLA0405_PRETO_VERMELHO_2-removebg-preview.png?v=638602311581000000"
+    },
+    {
+        "id": 22,
+        "name": "Chinelo Flamengo Manto 81 Preto Preto",
+        "price": 129.99,
+        "category": "calçados",
+        "image": "https://flamengo.vteximg.com.br/arquivos/ids/170672-473-473/FLA0402_PRETO_PRETO_1-removebg-preview.png?v=638602284425000000https://loja.flamengo.com.br/copo-flamengo-consciencia-negra-2024/p",
+        "tipo": "Feminino"
+    },
+    {
+        "id": 23,
+        "name": "Chinelo Flamengo Manto 81 Preto Vermelho",
+        "price": 129.99,
+        "category": "calçados",
+        "image": "https://flamengo.vteximg.com.br/arquivos/ids/170671-473-473/FLA0402_PRETO_VERMELHO_2-removebg-preview.png?v=638602276271900000"
+    },
+    {
+        "id": 24,
+        "name": "Chinelo Flamengo Slide CRF Preto/Preto",
+        "price": 129.99,
+        "category": "calçados",
+        "image": "https://flamengo.vteximg.com.br/arquivos/ids/170459-473-473/FLA0423_PRETO_PRETO_1-removebg-preview.png?v=638591582757630000",
+        "tipo": "Masculino"
+    },
+    {
+        "id": 25,
+        "name": "Chinelo Flamengo Slide CRF Preto/Ouro",
+        "price": 129.99,
+        "category": "calçados",
+        "image": "https://flamengo.vteximg.com.br/arquivos/ids/170458-473-473/FLA0423_PRETO_PRETO_OURO_3-removebg-preview.png?v=638591574314530000 "
+    },
+    {
+        "id": 26,
+        "name": "Copo Térmico Flamengo CRF Preto Arell 500ml",
+        "price": 129.99,
+        "category": "acessorios",
+        "image": "https://flamengo.vteximg.com.br/arquivos/ids/167526-473-473/w6zlyhdm.png?v=638248638263030000"
+    },
+    {
+        "id": 27,
+        "name": "Copo Térmico Flamengo White Listras Arell 500ml",
+        "price": 129.99,
+        "category": "acessorios",
+        "image": "https://flamengo.vteximg.com.br/arquivos/ids/169889-473-473/ARELL-FLA16---1-site.png?v=638512983845400000"
+    },
+    {
+        "id": 28,
+        "name": "Copo Térmico Flamengo Remo Vermelho Arell 500ml",
+        "price": 129.99,
+        "category": "acessorios",
+        "image": "https://flamengo.vteximg.com.br/arquivos/ids/167520-473-473/8fzwihbd.png?v=638248633111300000"
+    },
+    {
+        "id": 29,
+        "name": "Copo Térmico Flamengo Remo Arell 500ml",
+        "price": 129.99,
+        "category": "acessorios",
+        "image": "https://flamengo.vteximg.com.br/arquivos/ids/164088-473-473/ARE-DW01-FLA02_05-1000x1000---remo-1.1.jpg?v=637818335983200000"
+    },
+    {
+        "id": 30,
+        "name": "Chaveiro Flamengo Brasão Remo Borracha",
+        "price": 129.99,
+        "category": "acessorios",
+        "image": "https://flamengo.vteximg.com.br/arquivos/ids/170830-473-473/131315-1.jpg?v=638622612712800000"
+    },
+    {
+        "id": 31,
+        "name": "Boné Flamengo Dad Cap Remo Starter",
+        "price": 129.99,
+        "category": "acessorios",
+        "image": "https://flamengo.vteximg.com.br/arquivos/ids/170984-473-473/A572A_VM0001_01-removebg-preview.png?v=638639298265900000"
+    },
+    {
+        "id": 32,
+        "name": "Boné Snapback Flamengo CRF Bordado Starter",
+        "price": 129.99,
+        "category": "acessorios",
+        "image": "https://flamengo.vteximg.com.br/arquivos/ids/170918-473-473/T465A_PT0001_01.jpg?v=638628659425570000"
+    }
+
+
+
+]
